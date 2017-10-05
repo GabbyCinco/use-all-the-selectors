@@ -5,3 +5,7 @@ body {
 header, footer {
   font-size: 1.5rem;
 }
+
+.nav-list {
+  font-family: sans-serif;
+}
