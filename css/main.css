@@ -18,7 +18,7 @@ nav > ul {
   background-color: #eee8d5;
 }
 
-.id {
+#id {
   color: #93a1a1;
 }
 
@@ -26,7 +26,7 @@ nav > ul {
   background-color: #b58900;
 }
 
-p > strong {
+p + strong {
   color: #fff;
 }
 
