@@ -29,3 +29,15 @@ header, footer {
 p > strong {
   color: #fff;
 }
+
+a {
+  background-color: #719e07;
+}
+
+.no-highlight {
+  background-color: #fdf6e3;
+}
+
+.no.highlight {
+  background-color: #eee8d5;
+}
