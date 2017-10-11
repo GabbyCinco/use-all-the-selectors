@@ -57,3 +57,7 @@ ol li:last-child {
 .odd {
   background-color: #657ba3;
 }
+
+.even {
+  background-color: #586e75;
+}
