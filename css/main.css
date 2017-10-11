@@ -41,3 +41,7 @@ a {
 .no.highlight {
   background-color: #eee8d5;
 }
+
+main ul li:nth-child(3n) {
+  background-color: #2694d8;
+}
